@@ -1,0 +1,6 @@
+fruta
+bola
+contexto
+sistemas digitais
+O numero de letra eh 33
+O numero de palvras eh 5
